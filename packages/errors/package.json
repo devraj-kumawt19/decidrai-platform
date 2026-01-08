@@ -1,0 +1,21 @@
+{
+    "name": "errors",
+    "version": "1.0.0",
+    "description": "Shared error classes for DecidrAI",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "errors",
+        "shared"
+    ],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.25.0",
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
+}
