@@ -1,0 +1,3 @@
+module.exports=[12012,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"Search AI Tools",description:"Search through hundreds of curated AI tools. Find the perfect solution for productivity, writing, coding, design, and more.",path:"/search",keywords:["search AI tools","find AI apps","AI tool search"]});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_search_layout_tsx_b2b668e9._.js.map

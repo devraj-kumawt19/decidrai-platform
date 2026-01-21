@@ -1,0 +1,3 @@
+module.exports=[73807,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"Compare AI Tools",description:"Compare AI tools side-by-side with AI-powered analysis. See features, pricing, and get recommendations on which tool is best for your use case.",path:"/compare",keywords:["AI tool comparison","compare AI apps","tool vs tool","AI software comparison"]});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_compare_layout_tsx_950cb595._.js.map

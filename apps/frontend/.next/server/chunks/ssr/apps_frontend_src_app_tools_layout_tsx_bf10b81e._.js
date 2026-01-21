@@ -1,0 +1,3 @@
+module.exports=[30554,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"AI Tools Directory",description:"Browse and discover the best AI tools for productivity, writing, design, development, and more. Compare features and find your perfect match.",path:"/tools",keywords:["AI tools directory","AI software","productivity tools","AI apps"]});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_tools_layout_tsx_bf10b81e._.js.map

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///E:/college%20project/DecidrAI-main/DecidrAI-main/apps/frontend/src/app/loading.tsx"],"sourcesContent":["/**\n * Global Loading State\n * Shows during route transitions\n */\n\nexport default function Loading() {\n  return (\n    <div className=\"min-h-screen flex items-center justify-center bg-[var(--background)]\">\n      <div className=\"text-center\">\n        <div className=\"inline-block animate-spin text-5xl mb-4\">⚡</div>\n        <p className=\"text-[var(--muted)] text-lg\">Loading...</p>\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":"AAAA;;;CAGC;;;;;;AAEc,SAAS;IACtB,qBACE,6VAAC;QAAI,WAAU;kBACb,cAAA,6VAAC;YAAI,WAAU;;8BACb,6VAAC;oBAAI,WAAU;8BAA0C;;;;;;8BACzD,6VAAC;oBAAE,WAAU;8BAA8B;;;;;;;;;;;;;;;;;AAInD"}}]
+}

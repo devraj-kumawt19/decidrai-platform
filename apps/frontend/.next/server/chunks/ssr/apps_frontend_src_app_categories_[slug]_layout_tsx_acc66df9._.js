@@ -1,0 +1,3 @@
+module.exports=[19852,a=>{"use strict";var b=a.i(47764);let c={title:{default:"Category",template:`%s AI Tools | ${b.SITE_CONFIG.name}`},description:"Browse AI tools by category. Find the perfect tools for productivity, writing, design, development, and more.",openGraph:{type:"website",locale:b.SITE_CONFIG.locale,siteName:b.SITE_CONFIG.name}};function d({children:a}){return a}a.s(["default",()=>d,"metadata",0,c])}];
+
+//# sourceMappingURL=apps_frontend_src_app_categories_%5Bslug%5D_layout_tsx_acc66df9._.js.map

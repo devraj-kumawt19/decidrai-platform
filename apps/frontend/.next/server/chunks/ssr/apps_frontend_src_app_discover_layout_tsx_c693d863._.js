@@ -1,0 +1,3 @@
+module.exports=[27606,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"Discover AI Tools",description:"Find your perfect AI tool through guided discovery flows. Answer a few questions and get personalized recommendations tailored to your needs.",path:"/discover",keywords:["AI tool finder","AI recommendations","tool discovery","AI guide"]});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_discover_layout_tsx_c693d863._.js.map

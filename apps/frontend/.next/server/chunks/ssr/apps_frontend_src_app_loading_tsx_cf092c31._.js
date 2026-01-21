@@ -1,0 +1,3 @@
+module.exports=[2193,a=>{"use strict";var b=a.i(82029);function c(){return(0,b.jsx)("div",{className:"min-h-screen flex items-center justify-center bg-[var(--background)]",children:(0,b.jsxs)("div",{className:"text-center",children:[(0,b.jsx)("div",{className:"inline-block animate-spin text-5xl mb-4",children:"⚡"}),(0,b.jsx)("p",{className:"text-[var(--muted)] text-lg",children:"Loading..."})]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=apps_frontend_src_app_loading_tsx_cf092c31._.js.map

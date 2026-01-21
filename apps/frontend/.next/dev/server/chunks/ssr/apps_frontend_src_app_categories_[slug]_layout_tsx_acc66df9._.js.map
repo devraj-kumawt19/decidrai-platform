@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///E:/college%20project/DecidrAI-main/DecidrAI-main/apps/frontend/src/app/categories/%5Bslug%5D/layout.tsx"],"sourcesContent":["/**\n * Category Detail Layout\n * Provides base metadata for category detail pages\n */\n\nimport { Metadata } from 'next';\nimport { SITE_CONFIG } from '@/lib/seo.config';\n\n// Base metadata for category pages\nexport const metadata: Metadata = {\n  title: {\n    default: 'Category',\n    template: `%s AI Tools | ${SITE_CONFIG.name}`,\n  },\n  description: 'Browse AI tools by category. Find the perfect tools for productivity, writing, design, development, and more.',\n  openGraph: {\n    type: 'website',\n    locale: SITE_CONFIG.locale,\n    siteName: SITE_CONFIG.name,\n  },\n};\n\nexport default function CategoryDetailLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return children;\n}\n"],"names":[],"mappings":"AAAA;;;CAGC;;;;;;AAGD;;AAGO,MAAM,WAAqB;IAChC,OAAO;QACL,SAAS;QACT,UAAU,CAAC,cAAc,EAAE,8JAAW,CAAC,IAAI,EAAE;IAC/C;IACA,aAAa;IACb,WAAW;QACT,MAAM;QACN,QAAQ,8JAAW,CAAC,MAAM;QAC1B,UAAU,8JAAW,CAAC,IAAI;IAC5B;AACF;AAEe,SAAS,qBAAqB,EAC3C,QAAQ,EAGT;IACC,OAAO;AACT"}}]
+}

@@ -1,0 +1,3 @@
+module.exports=[97449,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"AI Tool Categories",description:"Browse AI tools by category: productivity, writing, design, development, marketing, and more. Find tools organized by what they do best.",path:"/categories",keywords:["AI categories","AI tool types","productivity AI","writing AI","design AI"]});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_categories_layout_tsx_32f2649d._.js.map

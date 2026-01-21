@@ -1,0 +1,3 @@
+{
+  "/discover/[slug]/results/[sessionId]/page": "app/discover/[slug]/results/[sessionId]/page.js"
+}

@@ -1,0 +1,3 @@
+module.exports=[66376,a=>{"use strict";var b=a.i(47764);let c={title:{default:"Discovery Flow",template:`%s | ${b.SITE_CONFIG.name}`},description:"Find your perfect AI tool through our guided discovery flow. Answer a few questions and get personalized recommendations.",openGraph:{type:"website",locale:b.SITE_CONFIG.locale,siteName:b.SITE_CONFIG.name}};function d({children:a}){return a}a.s(["default",()=>d,"metadata",0,c])}];
+
+//# sourceMappingURL=apps_frontend_src_app_discover_%5Bslug%5D_layout_tsx_935c9c57._.js.map

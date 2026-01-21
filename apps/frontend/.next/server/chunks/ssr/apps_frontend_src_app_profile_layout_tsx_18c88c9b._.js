@@ -1,0 +1,3 @@
+module.exports=[60200,a=>{"use strict";let b=(0,a.i(47764).generatePageMetadata)({title:"Your Profile",description:"Manage your saved AI tools, view your discovery flow history, and update your preferences on DecidrAI.",path:"/profile",noIndex:!0});function c({children:a}){return a}a.s(["default",()=>c,"metadata",0,b])}];
+
+//# sourceMappingURL=apps_frontend_src_app_profile_layout_tsx_18c88c9b._.js.map
